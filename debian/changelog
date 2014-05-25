@@ -1,3 +1,9 @@
+libarib25-installer (1.0-1ppa2) trusty; urgency=medium
+
+  * 1.0-1ppa2 release.
+
+ -- soburi <soburi@gmail.com>  Sun, 25 May 2014 17:48:42 +0900
+
 libarib25-installer (1.0-1ppa1) trusty; urgency=low
 
   * Initial release (Closes: #999999999)
