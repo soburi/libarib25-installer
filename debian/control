@@ -10,7 +10,7 @@ Standards-Version: 3.9.5
 
 Package: libarib25-installer
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, make, git, llibpcsclite-dev, pkg-config
 Provides: libarib25, libarib25-dev
 Description: libarib25 installer package.
  Build and install libarib25 library and headers.
