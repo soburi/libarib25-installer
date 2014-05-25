@@ -11,5 +11,6 @@ Standards-Version: 3.9.5
 Package: libarib25-installer
 Architecture: all
 Depends: ${misc:Depends}
+Provides: libarib25, libarib25-dev
 Description: libarib25 installer package.
  Build and install libarib25 library and headers.
