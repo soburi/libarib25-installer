@@ -1,0 +1,15 @@
+Source: libarib25-installer
+Section: video
+Priority: optional
+Maintainer: soburi <soburi@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+#Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/libarib25-installer.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/libarib25-installer.git;a=summary
+
+Package: libarib25-installer
+Architecture: all
+Depends: ${misc:Depends}
+Description: libarib25 installer package.
+ Build and install libarib25 library and headers.
